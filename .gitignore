@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Local datasets and generated experiment outputs.
+data/
+logs/
+rollout*/
+rewind_check/
+libero_goal_visualize/
+*.log
+*.mp4
+*.png
+*.json
+!package*.json
+
+# Large or separately versioned dependencies.
+lerobot/
+LIBERO/
+susie/

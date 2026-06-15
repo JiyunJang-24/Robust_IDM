@@ -1,0 +1,9 @@
+[submodule "LIBERO"]
+	path = LIBERO
+	url = https://github.com/Lifelong-Robot-Learning/LIBERO.git
+[submodule "lerobot"]
+	path = lerobot
+	url = https://github.com/huggingface/lerobot.git
+[submodule "susie"]
+	path = susie
+	url = https://github.com/kvablack/susie.git
